@@ -412,7 +412,3 @@ This project demonstrates several software-engineering concepts in one end-to-en
 - **Layered architecture:** model, crypto, service, controller, and configuration layers separate responsibilities.
 - **API-driven backend:** REST endpoints expose the demo pipeline and state to the dashboard.
 - **Testable security/concurrency behavior:** the repository includes dedicated tests for tampering, encryption, and concurrent duplicate delivery.
-
-## License
-
-The upstream repository states that the demo code has no license and is intended for learning. If redistributing or modifying the project, preserve appropriate attribution and verify the applicable permissions for the source repository.
